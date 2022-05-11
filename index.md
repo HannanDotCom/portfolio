@@ -1,15 +1,18 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/HannanDotCom/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Hannan and I am currently studying for an MSc in Computer Science. I have always had a love for technology and decided to take on a conversion Masters course after I finished my undergraduate degree in Chemistry as I knew I wanted to become a software engineer! Recently, I have really enjoyed having a go at Android app development in Java in my spare time alongside my studies.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skills
 
-### Markdown
+I have learnt the following languages:
+- Python
+- Java
+- C
+- Haskell
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Additionally, I have experience working with Agile methodologies, particularly Scrum, in a team.
 
-```markdown
-Syntax highlighted code block
+## Projects
 
 # Header 1
 ## Header 2
