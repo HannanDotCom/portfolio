@@ -13,28 +13,23 @@ I have learnt the following languages:
 Additionally, I have experience working with Agile methodologies, particularly Scrum, in a team.
 
 ## Projects
+### Music Quiz App
+<p align="center"><img src="Screenshot_20220513_200110.png" width="300"></p>
 
-# Header 1
-## Header 2
-### Header 3
+<p align="center">An album art music quiz made as a personal project in Android Studio with Java and XML.</p>
+<p align="center">Link: https://github.com/HannanDotCom/music_quiz_app</p>
 
-- Bulleted
-- List
+### Connect4
+<p align="center"><img src="connect4screenshot.png" width="400"></p>
+<p align="center">A basic Connect4 game created in Java for a course assignment, playable in CMD. </p>
+<p align="center">Link: https://github.com/HannanDotCom/Connect4</p>
 
-1. Numbered
-2. List
+### Sudoku Solver
+<p align="center"> Created for a course assignment in Python - a sudoku solver that utilises constraint propagation and depth first search. </p>
+<p align="center">Link: https://github.com/HannanDotCom/sudoku_solver</p>
 
-**Bold** and _Italic_ and `Code` text
+## Contact
 
-[Link](url) and ![Image](src)
-```
+GitHub: https://github.com/HannanDotCom
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HannanDotCom/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+E-mail: helamriti@gmail.com
